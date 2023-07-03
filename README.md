@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longdrache&show_icons=true&locale=en&layout=compact" alt="longdrache" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longdrache&show_icons=true&locale=en" alt="drachelong" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longdrache&" alt="drachelong" /></p>
