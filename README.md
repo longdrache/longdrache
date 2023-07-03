@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
-<h3 align="center">A passionate fullstack</h3>
+<h3 align="center">A passionate fullstack from Vietnam</h3>
 
 
 
