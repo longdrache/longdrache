@@ -13,8 +13,6 @@
   ·
   💼 <a href="https://www.linkedin.com/in/inhlongnguyen/">LinkedIn</a>
   ·
-  📄 <a href="https://longdrache.github.io/CV/">CV</a>
-  ·
   🌐 <a href="https://long.is-cool.dev/">Portfolio</a>
 </p>
 
