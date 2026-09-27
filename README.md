@@ -61,11 +61,9 @@ Worked on an **Online Quiz & Learning Platform**.
 - ⚛️ Next.js (frontend & SSR)
 - 🟢 NestJS (backend API & execution orchestration)
 - 🌐 TypeScript / JavaScript
-- ☕ Java / 🐍 Python / 🟢 Node.js (execution engines)
-- 🐳 Docker (isolated execution environments)
-- 🔌 REST API / WebSocket (real-time output streaming)
-- 🗄 PostgreSQL / MongoDB (lưu user, snippet, history)
-- ☁️ AWS / Azure (deployment)
+- 🔌 REST API 
+- 🗄 PostgreSQL  (lưu user, snippet, history)
+- ☁️ Vercel (deployment)
 
 [🔗 View source code](https://github.com/longdrache/coding-dev-lab)
 
